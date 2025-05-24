@@ -18,4 +18,20 @@ A simple command-line implementation of the classic Hangman game built using Pyt
 * Random module
 
 
+##Simple Chatbot using NLTK
+This is a basic rule-based chatbot built using Python and NLTK's Chat module. It demonstrates how to use pattern matching with regular expressions to simulate a conversation.
+
+##Features
+* Responds to basic greetings and goodbyes
+
+* Provides information about business hours and services
+
+* Built-in reflections for natural conversations
+
+* Easy to extend with more intents
+
+##Requirements
+* Python 3.x
+
+* NLTK
 
